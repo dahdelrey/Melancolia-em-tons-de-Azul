@@ -1,0 +1,6 @@
+1. Abra esta pasta no VS Code.
+2. No terminal: pip install -r requirements.txt
+3. Depois: python app.py
+4. Abra http://127.0.0.1:5000
+
+A página inicial usa o HTML enviado por você. Os dois links finais abrem a página de links oficiais.
